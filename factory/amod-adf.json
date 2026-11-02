@@ -1,0 +1,15 @@
+{
+	"name": "amod-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a42b63ca-b63a-4570-8eed-8a111dab2be5",
+		"tenantId": "327861ea-cd97-4815-8f87-44b1961f35c8"
+	}
+}
